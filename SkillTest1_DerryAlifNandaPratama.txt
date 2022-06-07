@@ -1,0 +1,4 @@
+Nama 	: Derry
+Umur 	: 27 Tahun
+Stack 	: Backend
+Bahasa Pemrograman : PHP, JAVASCRIPT
